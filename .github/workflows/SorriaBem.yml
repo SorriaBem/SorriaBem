@@ -79,3 +79,4 @@ jobs:
           DISABLE_SPRING: 1
         run: |
           bundle exec rails test
+          
